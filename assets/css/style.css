@@ -1,0 +1,19 @@
+*{
+
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.casilla{ 
+    width: 250px;
+    height: 20px;
+    border: 2px solid rgb(97, 97, 97);
+    text-align:right;
+}
+.historial{ 
+    width: 240px;
+    height: 20px;
+    text-align:right;
+    color: #b1aeae;
+    font-size: 1rem;
+}
